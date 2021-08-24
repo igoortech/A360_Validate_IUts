@@ -26,7 +26,7 @@ import com.automationanywhere.commandsdk.i18n.MessagesFactory;
 import static com.automationanywhere.commandsdk.model.AttributeType.TEXT;
 import static com.automationanywhere.commandsdk.model.DataType.STRING;
 
-@BotCommand
+//@BotCommand
 
 
 @CommandPkg(

@@ -1,6 +1,6 @@
 {
-    "label": "A2019DemoPackage",
-    "description": "Fournir des actions pour les opérations de A2019DemoPackage",
+    "label": "Validate_IUts",
+    "description": "Fournir des actions pour les opérations de Validate_IUts",
     "Concatenate.label": "Concaténer",
     "Concatenate.description": "Concaténer deux chaînes",
     "Concatenate.node_label": "{{firstString}} avec {{secondString}}",

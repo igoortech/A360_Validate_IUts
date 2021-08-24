@@ -1,6 +1,6 @@
 {
-    "label": "A2019DemoPackage",
-    "description": "提供 A2019DemoPackage 操作的动作。",
+    "label": "Validate_IUts",
+    "description": "提供 Validate_IUts 操作的动作。",
     "Concatenate.label": "串联",
     "Concatenate.description": "串联两个字符串",
     "Concatenate.node_label": "{{firstString}} 与 {{secondString}}",

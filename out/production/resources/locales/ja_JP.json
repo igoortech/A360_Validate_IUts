@@ -1,6 +1,6 @@
 {
-    "label": "A2019DemoPackage",
-    "description": "A2019DemoPackage の操作用のアクションを提供します。",
+    "label": "Validate_IUts",
+    "description": "Validate_IUts の操作用のアクションを提供します。",
     "Concatenate.label": "連結",
     "Concatenate.description": "2 つの文字列を連結します",
     "Concatenate.node_label": "{{firstString}} と {{secondString}}",

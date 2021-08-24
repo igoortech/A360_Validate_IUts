@@ -1,6 +1,6 @@
 {
-    "label": "A2019DemoPackage",
-    "description": "Stellt Aktionen für A2019DemoPackage-Vorgänge bereit.",
+    "label": "Validate_IUts",
+    "description": "Stellt Aktionen für Validate_IUts-Vorgänge bereit.",
     "Concatenate.label": "Verketten",
     "Concatenate.description": "Verkettet zwei Zeichenfolgen",
     "Concatenate.node_label": "{{firstString}} mit {{secondString}}",

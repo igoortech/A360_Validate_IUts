@@ -1,6 +1,6 @@
 {
-    "label": "A2019DemoPackage",
-    "description": "Предоставляет действия для выполнения операций A2019DemoPackage.",
+    "label": "Validate_IUts",
+    "description": "Предоставляет действия для выполнения операций Validate_IUts.",
     "Concatenate.label": "Конкатенация",
     "Concatenate.description": "Конкатенирует две строки",
     "Concatenate.node_label": "{{firstString}} с {{secondString}}",
